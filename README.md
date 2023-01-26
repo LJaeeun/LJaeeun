@@ -14,5 +14,5 @@
 
 <br /><br /><br /><br />
 
-![LJaeeun's github stats](https://github-readme-stats.vercel.app/api?username=LJaeeun&show_icons=true)
+![LJaeeun's github stats](https://github-readme-stats.vercel.app/api?username=LJaeeun&show_icons=true&theme=blueberry)
 [![LJaeeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LJaeeun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LJaeeun)
