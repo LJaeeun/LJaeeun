@@ -19,6 +19,6 @@
 <hr>
 
 <div align=center>
-  <img src='https://github-readme-stats.vercel.app/api?username=LJaeeun&show_icons=true&theme=blueberry' /> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra' />
+  <img src='https://github-readme-stats.vercel.app/api?username=LJaeeun&show_icons=true&theme=blueberry' /> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LJaeeun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact' />
  </div>
 
