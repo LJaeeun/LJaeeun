@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ### 사용 언어
-## Javascript, React, css3, scss, HTML5, Node.js & npm 
+### Javascript, React, css3, scss, HTML5, Node.js & npm 
 
 
 
