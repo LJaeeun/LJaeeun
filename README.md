@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jaeeun%20Lee&fontSize=90)
+<div align=center>
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jaeeun%20Lee&fontSize=90)
+</div>
 
 <h2 align= 'center'>hello everyone😊<br />my name is Jaeeun.Lee</h2>
 
