@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Jaeeun%20Lee&fontSize=90)
 
-<h2 align= 'center'>hello everyone😊</h2>
-<h3 align= 'center'>my name is Jaeeun.Lee</h3>
-
-<br /><br />
+<h2 align= 'center'>hello everyone😊<br />my name is Jaeeun.Lee</h2>
 
 <p align= 'center'>I'm studying Front-End</p>
 <p align= 'center'>I'm still studying, so I'm not good enough, but I'm always trying.</p>
 
 <hr>
-<br /><br />
+<br />
 
 <h3 align= 'center'>Available Programs</h3>
 <div style="display: block;" align= 'center'><img src="https://img.shields.io/badge/github-000?style=flat&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff"/><br />
